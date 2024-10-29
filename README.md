@@ -35,17 +35,7 @@ Open the Excel file to review and cleanse the data as necessary.
 
 Open the Tableau files and load the cleaned datasets to visualize the findings.
 Explore the various visualizations and dashboards created for insights into COVID-19 mortality.
-Project Structure
-kotlin
-Copy code
-COVID-19-Mortality-Analysis/
-├── data/
-│   ├── bronx_covid_data.xlsx
-│   └── usa_facts_covid_map.csv
-├── visualizations/
-│   ├── bronx_covid_analysis.twbx
-│   └── covid_trends.twbx
-├── README.md
+
 ## Contributing
 Contributions to improve the project are welcome! Please feel free to submit a pull request or open an issue for any suggestions or enhancements.
 
